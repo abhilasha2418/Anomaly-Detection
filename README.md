@@ -1,1 +1,1 @@
-# Anomaly-Detection
+# Anomaly-Detection of S&P data
